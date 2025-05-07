@@ -1,1 +1,3 @@
-# Proteccion
+# Protección Digital: IA contra el robo de identidad
+
+Este repositorio contiene el desarrollo de un proyecto universitario...
